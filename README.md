@@ -5,6 +5,6 @@ theStackUsedForDevelopment:-
 2.Swing-frontend.
 3.MySql-Database.
 TeamMembers:-
-Soham Suvarna
-Dishant Soyam.
-Pritesh Singh.
+1.Soham Suvarna
+2.Dishant Soyam.
+3.Pritesh Singh.
