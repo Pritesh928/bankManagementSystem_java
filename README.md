@@ -1,2 +1,9 @@
-# RockPaperScissors-java
-This is a game challenge I have done during learning javafx.
+>>>>bankManagementSystem
+>>>>collegeJavaProject
+>>>>theStackUsedForDevelopment:-
+1.Java-backend.
+2.Swing-frontend.
+3.MySql-Database.
+TeamMembers:-
+>>>>Dishant Soyam.
+>>>>Pritesh Singh.
